@@ -1,7 +1,7 @@
 
 ## Environment
 windows 11 insider preview build 22598<br>
-ubuntu 22.04 with WSL2 and WSLg enabled
+ubuntu 22.04 with WSL2 and WSLg enabled<br>
 
 ## install WSL
 Download Ubuntu 22.04 and windows terminal(some are inbuilt) in windows store
