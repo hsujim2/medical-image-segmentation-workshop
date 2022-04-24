@@ -1,8 +1,8 @@
 ## Environment
 Windows 11 insider preview build 22598<br>
 Ubuntu 22.04 with WSL2 and WSLg enabled<br>
-CPU:I5-21400<br>
-GPU:RTX3070<br>
+CPU:I5-12400<br>
+GPU:RTX-3070<br>
 
 ## install WSL
 Download Ubuntu 22.04 and windows terminal(some are inbuilt) in windows store.<br>
