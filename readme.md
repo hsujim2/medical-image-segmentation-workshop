@@ -5,7 +5,8 @@ ubuntu 22.04 with WSL2 and WSLg enabled<br>
 ## install WSL
 Download Ubuntu 22.04 and windows terminal(some are inbuilt) in windows store<br>
 open windows terminal<br>
-wsl --install<br>
+>wsl --install<br>
+
 open ubuntu, ubuntu 22.04 LTS with WSLg have graphical setup<br>
 ![Imgur](https://i.imgur.com/CLSfoHE.png)
 ![Imgur](https://i.imgur.com/jEDm2rt.png)
