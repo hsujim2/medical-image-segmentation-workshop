@@ -1,6 +1,6 @@
 
 ## Environment
-windows 11 insider preview build 22598
+windows 11 insider preview build 22598<br>
 ubuntu 22.04 with WSL2 and WSLg enabled
 
 ## install WSL
